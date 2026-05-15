@@ -1,8 +1,6 @@
 # Hi, I'm Sarah 👋
 
-Full-Stack Software Developer focused on building scalable web and mobile applications using React, React Native, TypeScript, and Node.js.
-
-I enjoy creating responsive user experiences, reusable UI components, and maintainable frontend architecture while building reliable, user-focused applications.
+Full-Stack Software Developer focused on building scalable web and mobile applications with experience in frontend architecture, backend services, API integrations, and responsive user experiences.
 
 ## Tech Stack
 
