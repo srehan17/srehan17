@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Sarah 👋
 
-<!--
-**srehan17/srehan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Developer focused on building scalable web and mobile applications using React, React Native, TypeScript, and Node.js.
 
-Here are some ideas to get you started:
+I enjoy creating responsive user experiences, reusable UI components, and maintainable frontend architecture while building reliable, user-focused applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Frontend
+
+* React
+* React Native
+* TypeScript
+* JavaScript
+
+### Backend & APIs
+
+* Node.js
+* REST APIs
+
+### Tools & Workflow
+
+* Git / GitHub / GitLab
+* Agile Development
+* Responsive UI Development
+* Component Testing
+
+## Featured Projects
+
+### Shopping Cart – React & TypeScript
+
+Responsive multilingual e-commerce application featuring reusable UI components, localization support, state management, and component testing.
+
+🔗 Live Demo: https://srehan17.github.io/shoppingcart-react-ts
+🔗 GitHub: https://github.com/srehan17/shoppingcart-react-ts
+
+### Resume Builder – Full Stack Application
+
+Full-stack resume builder application built with React and Node.js featuring dynamic form workflows, responsive resume preview generation, and customizable resume management.
+
+🔗 GitHub: https://github.com/srehan17/resumebuilder
+
+## Interests
+
+* Scalable frontend architecture
+* Mobile application development
+* Cross-platform applications
+* UI/UX and reusable component systems
+* AI-assisted development workflows
+
+## Links
+
+* Portfolio: https://srehan17.github.io/
+* LinkedIn: https://www.linkedin.com/in/sarahrehan85/
