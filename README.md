@@ -1,6 +1,6 @@
 # Hi, I'm Sarah 👋
 
-Full-Stack Software Developer focused on building scalable web and mobile applications with experience in frontend architecture, backend services, API integrations, and responsive user experiences.
+Full-Stack Software Developer focused on building scalable web and mobile applications with experience in frontend architecture, backend services, API integrations, data visualization, and responsive user experiences.
 
 ## Tech Stack
 
@@ -10,6 +10,7 @@ Full-Stack Software Developer focused on building scalable web and mobile applic
 * React Native
 * TypeScript
 * JavaScript
+* D3.js
 
 ### Backend & APIs
 
@@ -22,6 +23,7 @@ Full-Stack Software Developer focused on building scalable web and mobile applic
 * Agile Development
 * Responsive UI Development
 * Component Testing
+* Data Visualization
 
 ## Featured Projects
 
@@ -38,12 +40,20 @@ Full-stack resume builder application built with React and Node.js featuring dyn
 
 🔗 GitHub: https://github.com/srehan17/resumebuilder
 
+### D3 Analytics Dashboard
+
+Interactive analytics dashboard built with D3.js to visualize data through dynamic charts and clear, user-friendly insights.
+
+🔗 Live Demo: https://srehan17.github.io/d3-analytics-dashboard
+🔗 GitHub: https://github.com/srehan17/d3-analytics-dashboard
+
 ## Interests
 
 * Scalable frontend architecture
 * Mobile application development
 * Cross-platform applications
 * UI/UX and reusable component systems
+* Data visualization and analytics dashboards
 * AI-assisted development workflows
 
 ## Links
