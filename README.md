@@ -58,14 +58,14 @@ Notes application built with Python and Django, featuring user registration and 
 
 Responsive multilingual shopping cart built with React and TypeScript, featuring reusable components, localization, dynamic item filtering, real-time price calculations, and state management. Includes component and integration testing with Vitest and React Testing Library.
 
-🔗 Live Demo: https://srehan17.github.io/shoppingcart-react-ts
+🔗 Live Demo: https://srehan17.github.io/shoppingcart-react-ts  
 🔗 GitHub: https://github.com/srehan17/shoppingcart-react-ts
 
 ### D3 Analytics Dashboard
 
 Interactive analytics dashboard built with D3.js, featuring responsive data visualizations, dynamic charts, animated elements, and interactive tooltips.
 
-🔗 Live Demo: https://srehan17.github.io/d3-analytics-dashboard
+🔗 Live Demo: https://srehan17.github.io/d3-analytics-dashboard   
 🔗 GitHub: https://github.com/srehan17/d3-analytics-dashboard
 
 ## Interests
