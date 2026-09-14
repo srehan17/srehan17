@@ -1,6 +1,6 @@
 # Hi, I'm Sarah 👋
 
-Full-Stack Software Developer focused on building scalable web and mobile applications with experience in frontend architecture, backend services, API integrations, data visualization, and responsive user experiences.
+Full-Stack Software Developer with experience building web and mobile applications using React, React Native, TypeScript, Node.js, and Express. I enjoy working across the stack, from building reusable user interfaces to developing and integrating REST APIs and backend functionality.
 
 ## Tech Stack
 
@@ -10,53 +10,75 @@ Full-Stack Software Developer focused on building scalable web and mobile applic
 * React Native
 * TypeScript
 * JavaScript
+* HTML / CSS
 * D3.js
 
 ### Backend & APIs
 
 * Node.js
+* Express
 * REST APIs
+* Python
 
+### Databases
+
+* PostgreSQL
+* MongoDB
+  
 ### Tools & Workflow
 
 * Git / GitHub / GitLab
+* GitHub Actions
+* Docker
+* CI/CD
 * Agile Development
-* Responsive UI Development
-* Component Testing
-* Data Visualization
+* AI-assisted development
 
+### Testing
+
+* Jest
+* Vitest
+* React Testing Library
+  
 ## Featured Projects
+
+### Resume Builder – Full Stack Application
+
+Full-stack resume builder built with React, Node.js, Express, MongoDB, JWT, and REST APIs. Features user authentication, protected routes, CRUD operations, form validation, and a responsive real-time resume editor and preview.
+
+🔗 GitHub: https://github.com/srehan17/resumebuilder
+
+### Smart Notes — Python & Django
+
+Notes application built with Python and Django, featuring user registration and authentication along with CRUD functionality for creating, viewing, updating, and deleting notes.
+
+🔗 GitHub: https://github.com/srehan17/smartnotes
 
 ### Shopping Cart – React & TypeScript
 
-Responsive multilingual e-commerce application featuring reusable UI components, localization support, state management, and component testing.
+Responsive multilingual shopping cart built with React and TypeScript, featuring reusable components, localization, dynamic item filtering, real-time price calculations, and state management. Includes component and integration testing with Vitest and React Testing Library.
 
 🔗 Live Demo: https://srehan17.github.io/shoppingcart-react-ts
 🔗 GitHub: https://github.com/srehan17/shoppingcart-react-ts
 
-### Resume Builder – Full Stack Application
-
-Full-stack resume builder application built with React and Node.js featuring dynamic form workflows, responsive resume preview generation, and customizable resume management.
-
-🔗 GitHub: https://github.com/srehan17/resumebuilder
-
 ### D3 Analytics Dashboard
 
-Interactive analytics dashboard built with D3.js to visualize data through dynamic charts and clear, user-friendly insights.
+Interactive analytics dashboard built with D3.js, featuring responsive data visualizations, dynamic charts, animated elements, and interactive tooltips.
 
 🔗 Live Demo: https://srehan17.github.io/d3-analytics-dashboard
 🔗 GitHub: https://github.com/srehan17/d3-analytics-dashboard
 
 ## Interests
 
-* Scalable frontend architecture
+* Full-stack application development
+* Backend and API development
+* Web and cross-platform application development
 * Mobile application development
-* Cross-platform applications
-* UI/UX and reusable component systems
+* Reusable component systems
 * Data visualization and analytics dashboards
 * AI-assisted development workflows
 
-## Links
+## Connect
 
 * Portfolio: https://srehan17.github.io/
 * LinkedIn: https://www.linkedin.com/in/sarahrehan85/
